@@ -27,6 +27,13 @@ function playRound(playerSelection, computerSelection) {
 }
 const playerSelection = "paper";
 const computerSelection = getComputerChoice();
-console.log("player choice: " + playerSelection)
-console.log("Computer choice:" + computerSelection)
-console.log(playRound(playerSelection, computerSelection));
+funtion playGame(){
+	console.log("player choice: " + playerSelection);
+	console.log("Computer choice:" + computerSelection);
+	console.log(playRound(playerSelection, computerSelection));
+}
+playGame()
+playGame()
+playGame()
+PlayGame()
+playGame()
